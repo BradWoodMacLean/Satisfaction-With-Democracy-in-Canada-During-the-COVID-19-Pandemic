@@ -11,7 +11,7 @@ This repository contains the replication code for the analysis discussed in the 
 
 ## How to Run the Code
 1. Download the RScript for replication code
-2. At this time the data is not publicly available, you will need to request it from the[Media Ecosystems Observatory](https://www.mediaecosystemobservatory.com/).
+2. At this time the data is not publicly available, you will need to request it from the [Media Ecosystems Observatory](https://www.mediaecosystemobservatory.com/).
 
 ## Thesis Link
 For a detailed discussion of the methodology, findings, and implications of this study, refer to the full thesis available [here](URL-to-your-thesis).
