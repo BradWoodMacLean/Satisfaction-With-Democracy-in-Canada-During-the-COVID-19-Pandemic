@@ -1,4 +1,4 @@
-# Analysis of Satisfaction with Democracy During the COVID-19 Pandemic in Canada
+# Satisfaction with Democracy in Canada During the COVID-19 Pandemic
 
 ## Abstract
 During the COVID-19 pandemic, the need for citizen sacrifices and compliance with public health measures led to varied reactions across Canada. This project examines the polarizing effects these measures had on public satisfaction with democracy. Employing regression analyses that integrate rolling survey data, a stringency index of government-imposed restrictions, and epidemiological data, this study explores how governmental policies and the pandemic influenced public opinion. Key findings suggest that while stricter measures generally decreased satisfaction, increased concern about the pandemic mitigated this effect. Additionally, political and regional differences played significant roles in shaping public attitudes.
