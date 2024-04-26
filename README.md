@@ -17,7 +17,7 @@ This repository contains the replication code for the analysis discussed in the 
 For a detailed discussion of the methodology, findings, and implications of this study, refer to the full thesis available [here](URL-to-your-thesis).
 
 ## Author
-[Bradley D. Wood-MacLean]
+[Bradley D. Wood-MacLean](https://ca.linkedin.com/in/bwoodmaclean)
 
 ## Acknowledgments
 - Thanks to [Professor Kenichi Ariga](https://politics.utoronto.ca/faculty/profile/281/), my thesis advisor, for guidance and invaluable feedback.
