@@ -14,7 +14,7 @@ This repository contains the replication code for the analysis discussed in the 
 2. At this time the data is not publicly available, you will need to request it from the [Media Ecosystems Observatory](https://www.mediaecosystemobservatory.com/).
 
 ## Thesis Link
-For a detailed discussion of the methodology, findings, and implications of this study, refer to the full thesis available [here](https://www.dropbox.com/scl/fi/apfy45g4oze6s4jhkkb1j/Wood-MacLean-Bradley-D.-2024.-Satisfaction-with-Democracy-in-Canada-During-the-COVID-19-Pandemic.-Thesis..pdf?rlkey=ofdc8h23k213j2w3ws18j523r&st=6r0ww7wy&dl=0).
+For a detailed discussion of the methodology, findings, and implications of this study, refer to the full thesis available [here](https://tspace.library.utoronto.ca/handle/1807/138435).
 
 ## Author
 [Bradley D. Wood-MacLean](https://ca.linkedin.com/in/bwoodmaclean)
